@@ -1,0 +1,213 @@
+/*---Standard---*/
+
+body {
+	font-family: 'Montserrat';
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 1024px;
+}
+
+textarea {
+	resize: none;
+}
+
+/*---Police---*/
+
+.size-l {
+	font-size: 30px;
+}
+
+.size-m {
+	font-size: 20px;
+}
+
+.size-s {
+	font-size: 16px;
+}
+
+.size-body {
+	font-size: 14px;
+}
+
+.size-xs {
+	font-size: 10px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+/*---Menu---*/
+
+.navbar-nav {
+	font-size: 16px;
+}
+
+/*--Cadre--*/
+
+.cadre {
+	background-color: #F2F2F2;
+	padding: 20px 25px 20px 25px;
+	border-radius: 10px;
+}
+
+/*--Couleurs--*/
+
+.bg-grey {
+	background-color: #F2F2F2;
+}
+
+.bg-dark-grey {
+	background-color: #ABABAB;
+}
+
+.bg-white {
+	background-color: #FFFFFF;
+}
+
+.bg-success {
+	background-color: #5CB85C;
+}
+
+.bg-info {
+	background-color: #5BC0DE;
+}
+
+.bg-primary {
+	background-color: #337AB7;
+}
+
+.bg-warning {
+	background-color: #F0AD4E;
+}
+
+.bg-danger {
+	background-color: #D9534F;
+}
+
+.font-white {
+	color: #FFFFFF;
+}
+
+.info {
+	color: #5bc0de;
+}
+
+.red {
+	color: red;
+}
+
+/*---Marges---*/
+
+.bloc-top {
+	margin-top: 100px;
+	margin-bottom: 25px;
+}
+
+.mt-l {
+	margin-top: 50px;
+}
+
+.mt-m {
+	margin-top: 25px;
+}
+
+.mt-s {
+	margin-top: 10px;
+}
+
+.mb-l {
+	margin-bottom: 50px;
+}
+
+.mb-m {
+	margin-bottom: 25px;
+}
+
+.mb-s {
+	margin-bottom: 10px;
+}
+
+.ml-l {
+	margin-left: 50px;
+}
+
+.ml-m {
+	margin-left: 25px;
+}
+
+.ml-s {
+	margin-left: 10px;
+}
+
+.mr-l {
+	margin-right: 50px;
+}
+
+.mr-m {
+	margin-right: 25px;
+}
+
+.mr-s {
+	margin-right: 10px;
+}
+
+/*---Boutons---*/
+
+.btn-l {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.btn-m {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+/*---Alignement---*/
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.left {
+	text-align: left;
+}
+
+.justify {
+	text-align: justify;
+}
+
+/*---Tableau---*/
+
+.table {
+	margin-bottom: 0px;
+}
+
+.cellule {
+	background-color: #E4E4E4;
+	color: #D1D1D1;
+}
+
+/*---Panel---*/
+
+.panel {
+	overflow: auto;
+	height: 150px;
+	word-wrap: break-word;
+}
+
+/*--Sous-titre--*/
+
+.sous-titre {
+	font-size: 20px;
+	border-bottom: 1px solid black;
+}
+
+
